@@ -24,7 +24,7 @@ The Daily Expenses Sharing Application is a Python-based tool designed to help u
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shantharaju2k/YourRepositoryName.git
+   git clone https://github.com/Shantharaju2k/-Daily-Expenses-Sharing-Application.git
    cd YourRepositoryName
    ```
 
@@ -36,7 +36,7 @@ The Daily Expenses Sharing Application is a Python-based tool designed to help u
 ## Usage
 1. Run the application:
    ```bash
-   python your_script_name.py
+   python app.py
    ```
 
 2. Follow the on-screen prompts to:
